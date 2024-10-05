@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#3A6D8C;
+    height: 100vh;
+    box-sizing: border-box;
+    
+    }
+    #imgindex {  
+        margin-left: 10%;
+    width: 220px;
+    border: 1px solid;
+    border-radius: 50%;
+    }
+    main{
+       margin-left: 26%;
+       
+       
+    }
+    #texto_cor{
+        color: #EAD8B1;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 120%;
+    } 
+    #tags {
+        margin-left: 96%;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    p{
+        color: #EAD8B1;
+        margin-right:30%;
+        
+    }
+    
+    /*apenas cor do linkzinho*/
+    a {
+        color: #EAD8B1;
+    }
+    a:hover{
+        color: rgb(97, 173, 97);
+    }
